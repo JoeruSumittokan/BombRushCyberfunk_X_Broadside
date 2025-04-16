@@ -69,7 +69,7 @@ To install BepInEx:
 
 ## 📝 License
 
-This mod uses only **CC0 (Public Domain)** assets from the community.  
+This pack uses only **CC0 (Public Domain)** assets from the community.  
 
 ---
 

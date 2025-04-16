@@ -58,6 +58,14 @@ To install BepInEx:
   - Try removing other mods to check for conflicts.
   - Make sure you're using the latest versions of **r2modman** and **BepInEx**.
 
+- **👕 Character Clothing Notice**
+   -Please note that **changing clothes/outfits does not work** with these custom characters.
+   -These characters are based on **CC0 (Public Domain)** models, which means they were shared freely by artists for non-commercial and community use. The models have been adapted to work within *Bomb Rush Cyberfunk*, but their structure and mesh design do **not support outfit swapping** like the default in-game characters.
+   -Additionally, out of respect for the original creators and the nature of this project, I will **not be creating or modifying outfits** for these characters.
+   -They are meant to be played and enjoyed as they are — true to the original CC0 designs, and as a celebration of community creativity.
+-   Thanks for understanding!
+
+
 ---
 
 ## 📢 Credits

@@ -52,7 +52,7 @@ Crew Boom is also available on the Thunderstore to download directly from r2modm
 
 ## **📢 Credits:**
 
-- A huge thanks to the **Broadside Community**, Ellit1, Sentenza, VVV, Acromee, drmark and Rfeliz for providing the CC0 models used in this mod.
+- A huge thanks to the **Broadside Community Member:** Eliit1, Sentenza, VVV, Acromee, drmark and Rfeliz for providing the CC0 models used in this mod.
 - Special thanks to Broadside, Basejump, Matt Mason & Vector Meldrew. Without you I wouldn't be here doing cool stuff like this.
 ---
 

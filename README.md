@@ -1,4 +1,4 @@
-# **Broadside MAF – Bomb Rush Cyberfunk Character Replacement**
+# **Bomb Rush Cyberfunk - Broadside Metaverse Action Figure Character Replacement**
 
 ## 🎮 Description
 

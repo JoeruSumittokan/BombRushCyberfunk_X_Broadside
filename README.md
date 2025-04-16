@@ -21,11 +21,11 @@ To install BepInEx, follow these steps:
 3. Find BepInEx Pack by BepInEx and install it
 4. To install the plugin for BepInEx, follow these steps:
 
-**Automatic Install**
+**Automatic Install:**
 
 Crew Boom is also available on the Thunderstore to download directly from r2modman.
 
-**Manual Install**
+**Manual Install:**
 1. Download the plugin
 2. Open r2modman and select Bomb Rush Cyberfunk as the game and choose any profile
 3. Navigate to the Settings tab
@@ -33,7 +33,7 @@ Crew Boom is also available on the Thunderstore to download directly from r2modm
 5. Navigate to the folder BepInEx/plugins/
 6. Copy the folder CrewBoom from the plugin archive to BepInEx/plugins/
 
-**Adding characters**
+**Adding characters:**
 1. Navigate to your BepInEx installation for the game and open the BepInEx/config/CrewBoom/ folder
 2. Copy your character files (.cbb and .json) into the CrewBoom folder
 

@@ -94,8 +94,6 @@ This pack uses only **CC0 (Public Domain)** assets from the community.
 
 **Broadside Action Figures I used for the Pack:**
 
-   - BROADSIDE #5241 - Code
-
    - BROADSIDE #2903 - Baine
 
    - BROADSIDE #1477 - Gamera

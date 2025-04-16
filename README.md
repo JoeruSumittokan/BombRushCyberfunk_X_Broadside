@@ -13,6 +13,7 @@ This plugin requires BepInEx, a plugin framework for Unity games. The easiest wa
 r2modman was used to test this plugin, so other solutions may not work
 
 **Using r2modman**
+
 To install BepInEx, follow these steps:
 
 1. Open r2modman and select Bomb Rush Cyberfunk as the game and choose any profile
@@ -51,20 +52,37 @@ Crew Boom is also available on the Thunderstore to download directly from r2modm
 
 ## **📢 Credits:**
 
-- A huge thanks to the **Broadside Community** for providing the CC0 models used in this mod.
-- Special thanks to the developers of **r2modmanager** and **BepexMOD** for creating the tools that make modding possible.
-
+- A huge thanks to the **Broadside Community**, Ellit1, Sentenza, VVV, Acromee, drmark and Rfeliz for providing the CC0 models used in this mod.
+- Special thanks to Broadside, Basejump, Matt Mason & Vector Meldrew. Without you I wouldn't be here doing cool stuff like this.
 ---
 
 ## **📝 License:**
 
 This mod uses only **CC0 (Public Domain)** assets from the community. Feel free to modify, distribute, and share as you wish. No rights reserved.
 
----
+You will find these Action Figures in the game (no order):
+BROADSIDE #5241 - Code
+BROADSIDE #2903 - Baine
+BROADSIDE #1477 - Gamera
+BROADSIDE #889 - Khaled
+BROADSIDE #4847 - Kaneda
+BROADSIDE #1852 - Rails
+BROADSIDE #829 - Badas
+BROADSIDE #6612 - Balian
+BROADSIDE #980 - EJ
+BROADSIDE #1472 - Elfin
+BROADSIDE #2424 - Dayshawn
+BROADSIDE #2826 - Gunner
+BROADSIDE #5051 - Marisol
+BROADSIDE #2439 - Ricki
+BROADSIDE #3514 - Rudy
+BROADSIDE #6127 - Caspian
+BROADSIDE #6317 - Haruki
+BROADSIDE #1215 - Zoe
+BROADSIDE #363 - Survivor
+BROADSIDE #5885 - Efe
+BROADSIDE #1690 - River
 
-**🔗 Links:**
+Bones up!
 
-- [r2modmanager](#)
-- [BepexMOD](#)
-- [Bomb Rush Cyberfunk Steam page](#)
-- [Releases page](#)
+

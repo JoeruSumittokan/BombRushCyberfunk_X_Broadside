@@ -1,5 +1,3 @@
-# **Bomb Rush Cyberfunk - Broadside Metaverse Action Figure Character Replacement**
-
 ## 🎮 Description
 
 This package brings **Broadside MAF (Metaverse Action Figures)** into *Bomb Rush Cyberfunk*!  

@@ -6,7 +6,7 @@ This package brings **Broadside MAF (Metaverse Action Figures)** into *Bomb Rush
 All characters are based on **CC0 models** provided by the community and have been specifically adapted to be fully playable in-game.
 
 
-###🚀 Support me here:
+### 🚀 Support me here:
 
 🎥 [twitch.tv/JoeruSumittokan](https://twitch.tv/JoeruSumittokan)  
 🐦 [twitter.com/Joer_uu](https://twitter.com/Joer_uu)

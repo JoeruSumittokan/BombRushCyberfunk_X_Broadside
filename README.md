@@ -10,7 +10,6 @@ All characters are based on **CC0 models** provided by the community and have be
 
 🎥 [twitch.tv/JoeruSumittokan](https://twitch.tv/JoeruSumittokan)  
 🐦 [twitter.com/Joer_uu](https://twitter.com/Joer_uu)
----
 
 ## 🛠 Installation Guide
 

@@ -21,6 +21,7 @@ To install BepInEx, follow these steps:
 4. To install the plugin for BepInEx, follow these steps:
 
 **Automatic Install**
+
 Crew Boom is also available on the Thunderstore to download directly from r2modman.
 
 **Manual Install**

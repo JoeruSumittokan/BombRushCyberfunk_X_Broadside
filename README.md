@@ -66,7 +66,23 @@ To install BepInEx:
 ## 📢 Credits
 
 - Big thanks to **Broadside Community Members**: Eliit1, Sentenza, VVV, Acromee, drmark, and Rfeliz for the amazing CC0 model contributions.
-- Special shoutout to **Broadside**, **Basejump**, **Matt Mason**, and **Vector Meldrew** — your support and inspiration make projects like this possible!
+- Special shoutout to **Broadside**, **Basejump**, **Matt Mason**, and **Vector Meldrew** — you make projects like this possible!
+
+## ❤️ Personal Shoutout
+
+This mod — and everything surrounding it — wouldn’t exist without the incredible support I’ve received over the past year.
+
+To everyone who’s watched my Twitch streams, shared ideas in Discord, dropped a follow, or simply shared a kind word:  
+**Thank you from the bottom of my heart.**
+
+Your support has helped me grow not just as a creator, but as a person.  
+This journey has made me more confident, more open, and (yes) even helped me speak better English!
+
+What started as a fun experiment has turned into a full-blown creative outlet — and that’s thanks to YOU.
+
+I’m beyond grateful for the energy you bring into my life.  
+Let’s **MAKE THE INTERNET FUN AGAIN**
+  
 
 ---
 

@@ -91,7 +91,6 @@ Let’s **MAKE THE INTERNET FUN AGAIN**
 
 This pack uses only **CC0 (Public Domain)** assets from the community.  
 
----
 
 Broadside Action Figures I used for the Pack:
 

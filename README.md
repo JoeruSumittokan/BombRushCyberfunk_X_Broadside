@@ -92,49 +92,49 @@ Let’s **MAKE THE INTERNET FUN AGAIN**
 This pack uses only **CC0 (Public Domain)** assets from the community.  
 
 
-Broadside Action Figures I used for the Pack:
+**Broadside Action Figures I used for the Pack:**
 
-BROADSIDE #5241 - Code
+   - BROADSIDE #5241 - Code
 
-BROADSIDE #2903 - Baine
+   - BROADSIDE #2903 - Baine
 
-BROADSIDE #1477 - Gamera
+   - BROADSIDE #1477 - Gamera
 
-BROADSIDE #889 - Khaled
+   - BROADSIDE #889 - Khaled
 
-BROADSIDE #4847 - Kaneda
+   - BROADSIDE #4847 - Kaneda
 
-BROADSIDE #1852 - Rails
+   - BROADSIDE #1852 - Rails
 
-BROADSIDE #829 - Badas
+   - BROADSIDE #829 - Badas
 
-BROADSIDE #6612 - Balian
+   - BROADSIDE #6612 - Balian
 
-BROADSIDE #980 - EJ
+   - BROADSIDE #980 - EJ
 
-BROADSIDE #1472 - Elfin
+   - BROADSIDE #1472 - Elfin
 
-BROADSIDE #2424 - Dayshawn
+   - BROADSIDE #2424 - Dayshawn
 
-BROADSIDE #2826 - Gunner
+   - BROADSIDE #2826 - Gunner
 
-BROADSIDE #5051 - Marisol
+   - BROADSIDE #5051 - Marisol
 
-BROADSIDE #2439 - Ricki
+   - BROADSIDE #2439 - Ricki
 
-BROADSIDE #3514 - Rudy
+   - BROADSIDE #3514 - Rudy
 
-BROADSIDE #6127 - Caspian
+   - BROADSIDE #6127 - Caspian
 
-BROADSIDE #6317 - Haruki
+   - BROADSIDE #6317 - Haruki
 
-BROADSIDE #1215 - Zoe
+   - BROADSIDE #1215 - Zoe
 
-BROADSIDE #363 - Survivor
+   - BROADSIDE #363 - Survivor
 
-BROADSIDE #5885 - Efe
+   - BROADSIDE #5885 - Efe
 
-BROADSIDE #1690 - River
+   - BROADSIDE #1690 - River
 
 ## **Bones up!**
 

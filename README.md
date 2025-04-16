@@ -6,45 +6,34 @@ This package brings Broadside MAF (Metaverse Action Figures) into *Bomb Rush Cyb
 
 ---
 
-## **🔹 Features:**
-- **New playable characters** – Directly integrated into the game.
-- **Character-based graffiti** – Street art with community-designed graphics.(SOON)
-- **100% community-driven** – Only open and freely available CC0 content.
-
----
-
 ## **🛠 Installation Guide:**
 
-### **1. Prerequisites**
+This plugin requires BepInEx, a plugin framework for Unity games. The easiest way to get BepInEx going for Bomb Rush Cyberfunk is to use the r2modman mod manager.
 
-Before you can install and enjoy this mod, you'll need a few tools and programs:
+r2modman was used to test this plugin, so other solutions may not work
 
-- **[r2modmanager](#)** – A mod manager for Bomb Rush Cyberfunk that helps you install and manage mods.
-- **[BepexMOD](#)** – A tool to manage character mods, textures, and other game assets.  
-- **Bomb Rush Cyberfunk** – Make sure you have the game installed via [Steam](#).
+**Using r2modman**
+To install BepInEx, follow these steps:
 
-### **2. Install Mods Using r2modmanager**
+1. Open r2modman and select Bomb Rush Cyberfunk as the game and choose any profile
+2. Navigate to the Online tab
+3. Find BepInEx Pack by BepInEx and install it
+4. To install the plugin for BepInEx, follow these steps:
 
-1. **Download and Install r2modmanager** from the official site.
-2. Open **r2modmanager** and select **Bomb Rush Cyberfunk** from the list.
-3. Click on **“Install Mods”**.
-4. **Download the mod files** from the [Releases page](#).
-5. After downloading, drag the mod files into the **r2modmanager** interface to install them.
+**Automatic Install**
+Crew Boom is also available on the Thunderstore to download directly from r2modman.
 
-### **3. Using BepexMOD (Optional)**
+**Manual Install**
+1. Download the plugin
+2. Open r2modman and select Bomb Rush Cyberfunk as the game and choose any profile
+3. Navigate to the Settings tab
+4. Find the option labeled "Browse profile folder" and click it
+5. Navigate to the folder BepInEx/plugins/
+6. Copy the folder CrewBoom from the plugin archive to BepInEx/plugins/
 
-1. **Download BepexMOD** from the provided link.
-2. Place the **Character Mods** into the appropriate folder (usually `Mods/Character`).
-3. Use BepexMOD to manage the installed mods and configure them for the game.
-
----
-
-## **🔧 How to Play the Mod:**
-
-1. Once the mods are installed via r2modmanager (or BepexMOD), **launch Bomb Rush Cyberfunk**.
-2. Start a new game or load an existing save file.
-3. You should now see the new **Broadside MAF characters** in the character selection screen.
-4. Enjoy playing with the new characters and **character-based graffiti**!
+**Adding characters**
+1. Navigate to your BepInEx installation for the game and open the BepInEx/config/CrewBoom/ folder
+2. Copy your character files (.cbb and .json) into the CrewBoom folder
 
 ---
 

@@ -1,66 +1,81 @@
-## **Broadside MAF – Bomb Rush Cyberfunk Character Replacement**
+# **Broadside MAF – Bomb Rush Cyberfunk Character Replacement**
 
-**Description:**
+## 🎮 Description
 
-This package brings Broadside MAF (Metaverse Action Figures) into *Bomb Rush Cyberfunk*. All characters are based on **CC0 models** provided by the community and have been specifically adapted for the game to make them fully playable.
+This package brings **Broadside MAF (Metaverse Action Figures)** into *Bomb Rush Cyberfunk*!  
+All characters are based on **CC0 models** provided by the community and have been specifically adapted to be fully playable in-game.
+
+
+## 🚀 Support me here:
+
+🎥 [twitch.tv/JoeruSumittokan](https://twitch.tv/JoeruSumittokan)  
+🐦 [twitter.com/Joer_uu](https://twitter.com/Joer_uu)
+---
+
+## 🛠 Installation Guide
+
+This mod requires **BepInEx**, a plugin framework for Unity games. The easiest way to get started is with the **r2modman** mod manager.
+
+> ⚠️ This mod was tested using r2modman. Other methods may not work as intended.
+
+### ✅ Using r2modman
+
+To install BepInEx:
+
+1. Open **r2modman** and select *Bomb Rush Cyberfunk* as the game.
+2. Choose or create a profile.
+3. Go to the **Online** tab.
+4. Find and install **BepInEx Pack by BepInEx**.
+
+### 📦 Installing the Plugin
+
+#### Automatic Install
+**Crew Boom** is available on Thunderstore and can be downloaded directly via r2modman.
+
+#### Manual Install
+
+1. Download the plugin archive.
+2. Open **r2modman**, select *Bomb Rush Cyberfunk*, and choose your profile.
+3. Navigate to the **Settings** tab.
+4. Click **"Browse profile folder"**.
+5. Go to the `BepInEx/plugins/` directory.
+6. Extract the folder `CrewBoom` from the archive into that directory.
+
+### 🎭 Adding Characters
+
+1. Go to your BepInEx installation directory and open:  
+   `BepInEx/config/CrewBoom/`
+2. Copy the character files (`.cbb` and `.json`) into the `CrewBoom` folder.
 
 ---
 
-## **🛠 Installation Guide:**
+## 💡 Troubleshooting
 
-This plugin requires BepInEx, a plugin framework for Unity games. The easiest way to get BepInEx going for Bomb Rush Cyberfunk is to use the r2modman mod manager.
+- **Mod not showing up in-game?**
+  - Ensure all files are in the correct folders.
+  - Confirm that r2modman installed the mod properly.
 
-r2modman was used to test this plugin, so other solutions may not work
-
-**Using r2modman**
-
-To install BepInEx, follow these steps:
-
-1. Open r2modman and select Bomb Rush Cyberfunk as the game and choose any profile
-2. Navigate to the Online tab
-3. Find BepInEx Pack by BepInEx and install it
-4. To install the plugin for BepInEx, follow these steps:
-
-**Automatic Install:**
-
-Crew Boom is also available on the Thunderstore to download directly from r2modman.
-
-**Manual Install:**
-1. Download the plugin
-2. Open r2modman and select Bomb Rush Cyberfunk as the game and choose any profile
-3. Navigate to the Settings tab
-4. Find the option labeled "Browse profile folder" and click it
-5. Navigate to the folder BepInEx/plugins/
-6. Copy the folder CrewBoom from the plugin archive to BepInEx/plugins/
-
-**Adding characters:**
-1. Navigate to your BepInEx installation for the game and open the BepInEx/config/CrewBoom/ folder
-2. Copy your character files (.cbb and .json) into the CrewBoom folder
-
----
-
-## **💡 Troubleshooting:**
-
-- **Mod not showing up in the game?**
-  - Ensure that all files are placed in the correct mod folder.
-  - Double-check that the mod manager has properly installed the files.
 - **Game crashes after installing the mod?**
-  - Try removing other mods to see if there’s a conflict.
-  - Verify that you have the latest version of **r2modmanager** and **BepexMOD**.
+  - Try removing other mods to check for conflicts.
+  - Make sure you're using the latest versions of **r2modman** and **BepInEx**.
 
 ---
 
-## **📢 Credits:**
+## 📢 Credits
 
-- A huge thanks to the **Broadside Community Member:** Eliit1, Sentenza, VVV, Acromee, drmark and Rfeliz for providing the CC0 models used in this mod.
-- Special thanks to Broadside, Basejump, Matt Mason & Vector Meldrew. Without you I wouldn't be here doing cool stuff like this.
+- Big thanks to **Broadside Community Members**: Eliit1, Sentenza, VVV, Acromee, drmark, and Rfeliz for the amazing CC0 model contributions.
+- Special shoutout to **Broadside**, **Basejump**, **Matt Mason**, and **Vector Meldrew** — your support and inspiration make projects like this possible!
+
 ---
 
-## **📝 License:**
+## 📝 License
 
-This mod uses only **CC0 (Public Domain)** assets from the community. Feel free to modify, distribute, and share as you wish. No rights reserved.
+This mod uses only **CC0 (Public Domain)** assets from the community.  
+Feel free to modify, share, remix, and distribute — no rights reserved.
 
-You will find these Action Figures in the game (no order):
+---
+
+Broadside Action Figures I used for the Pack:
 
 BROADSIDE #5241 - Code
 

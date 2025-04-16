@@ -61,28 +61,49 @@ Crew Boom is also available on the Thunderstore to download directly from r2modm
 This mod uses only **CC0 (Public Domain)** assets from the community. Feel free to modify, distribute, and share as you wish. No rights reserved.
 
 You will find these Action Figures in the game (no order):
+
 BROADSIDE #5241 - Code
+
 BROADSIDE #2903 - Baine
+
 BROADSIDE #1477 - Gamera
+
 BROADSIDE #889 - Khaled
+
 BROADSIDE #4847 - Kaneda
+
 BROADSIDE #1852 - Rails
+
 BROADSIDE #829 - Badas
+
 BROADSIDE #6612 - Balian
+
 BROADSIDE #980 - EJ
+
 BROADSIDE #1472 - Elfin
+
 BROADSIDE #2424 - Dayshawn
+
 BROADSIDE #2826 - Gunner
+
 BROADSIDE #5051 - Marisol
+
 BROADSIDE #2439 - Ricki
+
 BROADSIDE #3514 - Rudy
+
 BROADSIDE #6127 - Caspian
+
 BROADSIDE #6317 - Haruki
+
 BROADSIDE #1215 - Zoe
+
 BROADSIDE #363 - Survivor
+
 BROADSIDE #5885 - Efe
+
 BROADSIDE #1690 - River
 
-Bones up!
+## **Bones up!**
 
 

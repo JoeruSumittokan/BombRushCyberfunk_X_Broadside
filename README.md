@@ -1,7 +1,7 @@
 ## 🎮 Description
 
 This package brings **Broadside MAF (Metaverse Action Figures)** into *Bomb Rush Cyberfunk*!  
-All characters are based on **CC0 models** provided by the community and have been specifically adapted to be fully playable in-game.
+All characters are based on **CC0 models** provided by the community and have been specifically adapted to be fully playable in-game. [**PREVIEW**](https://youtu.be/n6h4D9FPCpQ)
 
 
 ### 🚀 Support me here:

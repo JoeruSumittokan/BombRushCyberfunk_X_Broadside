@@ -69,6 +69,7 @@ To install BepInEx:
 
 - Big thanks to **Broadside Community Members**: Eliit1, Sentenza, VVV, Acromee, drmark, and Rfeliz for the amazing CC0 model contributions.
 - Special shoutout to **Broadside**, **Basejump**, **Matt Mason**, and **Vector Meldrew** — you make projects like this possible!
+- Shoutout to Directive Creator and the Grillz Gang for having me. Looking forward for the next project!
 
 
 ## ❤️ Personal Shoutout

@@ -11,7 +11,7 @@ All characters are based on **CC0 models** provided by the community and have be
 
 ## 🛠 Installation Guide
 
-Too tired to read everything? Watch this [**YouTube**] video. It helps me to set up the whole character pack. You don't have to watch the whole video, cause the character are all set! 
+Too tired to read everything? Watch this [**YouTube**](https://www.youtube.com/watch?v=xBpwLYYAEoU&t=20s) video. It helps me to set up the whole character pack. You don't have to watch the whole video, cause the character are all set! 
 
 This mod requires [**BepInEx**](https://thunderstore.io/package/bbepis/BepInExPack/), a plugin framework for Unity games. The easiest way to get started is with the [**r2modman**](https://thunderstore.io/package/ebkr/r2modman/) mod manager.
 

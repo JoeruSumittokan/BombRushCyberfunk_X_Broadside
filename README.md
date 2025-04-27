@@ -33,7 +33,7 @@ To install BepInEx:
 
 #### Manual Install
 
-1. Download the plugin archive.
+1. Download the [plugin](https://github.com/LunaCapra/CrewBoom/releases/download/v3.2.5/plugin.zip).
 2. Open **r2modman**, select *Bomb Rush Cyberfunk*, and choose your profile.
 3. Navigate to the **Settings** tab.
 4. Click **"Browse profile folder"**.

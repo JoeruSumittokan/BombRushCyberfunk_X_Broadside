@@ -49,6 +49,7 @@ To install BepInEx:
 - **Mod not showing up in-game?**
   - Ensure all files are in the correct folders.
   - Confirm that r2modman installed the mod properly.
+  - Start the modded game with R2modman (not vanilla).
 
 - **Game crashes after installing the mod?**
   - Try removing other mods to check for conflicts.
